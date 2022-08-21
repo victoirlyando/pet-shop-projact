@@ -499,14 +499,14 @@ header{
         font-size: 30px;
     }
     .bg1{
-        width: 425px;
+        width: 100%;
     }
     .cpt{
         width: 350px;
         margin-top: 20px;
     }
     .it1{
-        width: 425px;
+        width: 100%;
     }
     .it1 p{
         text-align: left;
@@ -515,8 +515,8 @@ header{
     }
     .it2{
         background-image: url(aset/kanan-bawah.jpg);
-        background-size: 500px;
-        width: 425px;
+        background-size: 669px;
+        width: 100%;
     }
     .cptn{
         width: 350px;
